@@ -17,7 +17,7 @@ Laurent's journey is a testament to his adaptability, ambition, and unwavering c
 ### 🧰 Languages and Tools
 
 <img align="left" alt="SwiftUI" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
-<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvUXyIB2ldzBhNugOYPwHHIy1sbSt5F_eFkg&usqp=CAU" />
+<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvUXyIB2ldzBhNugOYPwHHIy1sbSt5F_eFkg&usqp=CAU](https://banner2.cleanpng.com/20190717/ok/kisspng-ruby-on-rails-computer-icons-transparency-programm-5d2f48f9ae9df2.2692585615633799617152.jpg)" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
