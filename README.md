@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**ldlefebvre/ldlefebvre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 🏋🏻 Laurent Lefebvre
 
 **`Coding the Future of Sports Tech`**
@@ -46,7 +29,7 @@ Laurent's journey is a testament to his adaptability, ambition, and unwavering c
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldlefebvre&show_icons=true&theme=gruvbox)
+![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldlefebvre&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ldlefebvre&theme=gruvbox&border_radius=4.5) -->
 
@@ -71,8 +54,6 @@ Software Engineering - iOS App // May 2022 – May 2023
 Personal Website
 • Developed a personal website using Wix to comprehensively present my prior professional experiences and educational background, designed with a focus on user-friendly navigation and engaging UX, facilitating dynamic and accessible insights into my career journey
 • Currently elevating my web development skills by engineering a more sophisticated and interactive version of my personal website using Ruby on Rails, aiming to introduce advanced functionalities and an enhanced UX for an even more captivating user interaction (progress is displayed on my GitHub)
-
-![image](https://github.com/ldlefebvre/ldlefebvre/assets/85081379/725b36e2-58f9-4281-a052-a4b77d2b8b0a)
 
 
 [website]: https://lefebvrelaurent.com
