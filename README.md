@@ -25,8 +25,7 @@ Laurent's journey is a testament to his adaptability, ambition, and unwavering c
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow.png" />
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 
