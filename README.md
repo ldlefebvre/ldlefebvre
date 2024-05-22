@@ -2,15 +2,15 @@
 
 **`Coding the Future of Sports Tech`**
 
-Laurent Lefebvre is a dynamic professional boasting an impressive blend of academic achievements and hands-on experience in the fields of software development and sports business. Graduating from a Web Development Bootcamp and with a Master of Science in Sport Management from the University of San Francisco, as well as a Bachelor of Commerce from McGill University, Laurent has demonstrated exceptional academic prowess alongside a commitment to practical application through diverse professional positions and leadership roles.
+I am a dynamic professional boasting an impressive blend of academic achievements and hands-on experience in software development and sports business. Graduating from a Web Development Bootcamp and with a Master of Science in Sport Management from the University of San Francisco, as well as a Bachelor of Commerce from McGill University, I have demonstrated exceptional academic prowess alongside a commitment to practical application through diverse professional positions and leadership roles.
 
-With technical skills spanning Ruby on Rails, HTML, CSS, JavaScript, SQL, SwiftUI, and more, Laurent excels in creating innovative solutions. His personal coding projects in sports showcase his ability to blend creativity with technical skills, developing applications that serve niche markets with precision and user-centric design. His proficiency in software development is complemented by certifications, including SwiftUI Coding, highlighting his continuous pursuit of learning and excellence.
+With technical skills spanning SwiftUI, Ruby on Rails, HTML, CSS, JavaScript, SQL, Python, and more, I excel in creating innovative solutions. My personal coding projects in sports showcase my ability to blend creativity with technical skills, developing applications that serve niche markets with precision and user-centric design. My proficiency in software development is complemented by certifications, including SwiftUI Coding, highlighting my continuous pursuit of learning and excellence.
 
-Laurent's leadership and team management skills were honed as President of the USF Sport Marketing Association, where he led initiatives to enhance the organization's digital presence and engage members through meaningful events. His role as a Fan Experience Associate with the LA Kings and involvement in event operations for high-profile events like Bellator MMA, ISA World Games and LA Sports Council further reflect his versatility and capacity to contribute to diverse teams and projects.
+My leadership and team management skills were honed as President of the USF Sport Marketing Association, where I led initiatives to enhance the organization's digital presence and engage members through meaningful events. My role as a Fan Experience Associate with the LA Kings and involvement in event operations for high-profile events like Bellator MMA, ISA World Games, and LA Sports Council further reflect my versatility and capacity to contribute to diverse teams and projects.
 
-A former competitive alpine skier and an enthusiast of powerlifting, long-distance running, and adventure sports, Laurent embodies a spirit of determination and passion both professionally and personally. His interest in wine, evidenced by a WSET Level 2 Award, along with his ventures into crypto and NFT creation, illustrate a multifaceted individual keen on exploring new frontiers.
+As a former competitive alpine skier and an enthusiast of powerlifting, long-distance running, and adventure sports, I embody a spirit of determination and passion both professionally and personally. My interest in wine, evidenced by a WSET Level 2 Award, along with my ventures into crypto and NFT creation, illustrate a multifaceted individual keen on exploring new frontiers.
 
-Laurent's journey is a testament to his adaptability, ambition, and unwavering commitment to excellence, positioning him as a valuable asset to any team or project.
+My journey is a testament to my adaptability, ambition, and unwavering commitment to excellence, positioning me as a valuable asset to any team or project.
 
 ---
 
