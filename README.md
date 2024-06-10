@@ -1,6 +1,6 @@
 # 🏋🏻 Laurent Lefebvre
 
-**`Coding the Future of Sports Tech`**
+**`Coding the Future of Sports and Intertainment Tech`**
 
 I am a dynamic professional boasting an impressive blend of academic achievements and hands-on experience in software development and sports business. Graduating from a Web Development Bootcamp and with a Master of Science in Sport Management from the University of San Francisco, as well as a Bachelor of Commerce from McGill University, I have demonstrated exceptional academic prowess alongside a commitment to practical application through diverse professional positions and leadership roles.
 
