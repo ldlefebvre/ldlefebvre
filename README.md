@@ -29,6 +29,10 @@ My journey is a testament to my adaptability, ambition, and unwavering commitmen
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 <br />
+<br />
+
+![Top Langs](https://github-readme-stats-git-master-laurent-lefebvres-projects.vercel.app/api/top-langs/?username=ldlefebvre&layout=compact&cache_seconds=0)
+
 
 <!--
 #
