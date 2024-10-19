@@ -31,7 +31,7 @@ My journey is a testament to my adaptability, ambition, and unwavering commitmen
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats-git-master-laurent-lefebvres-projects.vercel.app/api/top-langs/?username=ldlefebvre&layout=compact&cache_seconds=0)
+![Top Langs](https://github-readme-stats-git-master-laurent-lefebvres-projects.vercel.app/api/top-langs/?username=ldlefebvre&layout=compact)
 
 
 <!--
