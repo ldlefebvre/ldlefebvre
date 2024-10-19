@@ -52,7 +52,7 @@ My journey is a testament to my adaptability, ambition, and unwavering commitmen
  -->
 <h3>👨‍💻 Laurent's Coding Journey</h3>
 Exad - Entrepreneurship / Software - iOS Project // March 2021 – Present<br>
-• Developing a project in the field of Extreme and Adventure Sports to create an experience marketplace and connect sports providers with the public (skills: GitHub, Firebase database, Push Notification, Deep Links, Chat Functionalities, Maps, customized Camera, Business Logo, Figma & Photoshop Designs, personal customized sf symbol, cached images, Logins, Stripe payment platform integration for connected accounts with Node.js and terminal coding skills)
+• Developing a project in the field of Extreme and Adventure Sports to create an experience marketplace and connect sports providers with the public (skills: GitHub, Firebase database, Push Notification, Deep Links, Chat Functionalities, Maps, customized Camera, Business Logo, Figma & Photoshop Designs, personal customized sf symbol, cached images, Logins, Automated Emails, Stripe payment platform integration for connected accounts with Node.js and terminal coding skills)
 
 <br>Ripped Utopia - Software - iOS Project // Dec 2023 – Present<br>
 • Designed and developed a pioneering fitness application featuring a dynamic, personalized powerlifting workout program based on progressive overload principles, incorporating a comprehensive library of over 1,300 exercises with illustrative GIFs. Engineered robust tracking functionalities to empower users with detailed progress monitoring and insights, fostering enhanced fitness outcomes (skills: parsing APIs, displaying gifs, interaction in data between implementing a local SwiftData offline database and a Firebase online database)
