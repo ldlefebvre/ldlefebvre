@@ -51,6 +51,15 @@ My journey is a testament to my adaptability, ambition, and unwavering commitmen
  <summary><h3>👨‍💻 Laurent's Coding Journey</h3></summary>
  -->
 <h3>👨‍💻 Laurent's Coding Journey</h3>
+
+Openlane - iOS Developer // October 2025 - Present
+
+National Bank of Canada - Full Stack Engineer // May 2025 - September 2025
+• Containerized and deployed a React front‑end microservice on AWS EKS using Docker, and maintained Jenkins‑driven CI/CD pipelines
+• Led enterprise-wide cloud migration initiative across multiple banking applications, modernizing deployment infrastructure from legacy systems to AWS Kubernetes environments with zero service disruption
+• Hardened apps with Snyk and Checkov scans, managed secrets via Vault, refactored codebase, and wrote unit tests using Jest and React Testing Library
+• Configured NGINX as reverse‑proxy/load‑balancer for microservices
+
 Exad - Entrepreneurship / Software - iOS Project // March 2021 – Present<br>
 • Developing a project in the field of Extreme and Adventure Sports to create an experience marketplace and connect sports providers with the public (skills: GitHub, Firebase database, Push Notification, Deep Links, Chat Functionalities, Maps, customized Camera, Business Logo, Figma & Photoshop Designs, personal customized sf symbol, cached images, Logins, Automated Emails, Stripe payment platform integration for connected accounts with Node.js and terminal coding skills)
 
