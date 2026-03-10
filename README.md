@@ -52,28 +52,28 @@ My journey is a testament to my adaptability, ambition, and unwavering commitmen
  -->
 <h3>👨‍💻 Laurent's Coding Journey</h3>
 
-Openlane - iOS Developer // October 2025 - Present
+<br>Openlane - iOS Developer // October 2025 - Present<br>
 
-National Bank of Canada - Full Stack Engineer // May 2025 - September 2025
-• Containerized and deployed a React front‑end microservice on AWS EKS using Docker, and maintained Jenkins‑driven CI/CD pipelines
-• Led enterprise-wide cloud migration initiative across multiple banking applications, modernizing deployment infrastructure from legacy systems to AWS Kubernetes environments with zero service disruption
-• Hardened apps with Snyk and Checkov scans, managed secrets via Vault, refactored codebase, and wrote unit tests using Jest and React Testing Library
+<br>National Bank of Canada - Full Stack Engineer // May 2025 - September 2025<br>
+• Containerized and deployed a React front‑end microservice on AWS EKS using Docker, and maintained Jenkins‑driven CI/CD pipelines<br>
+• Led enterprise-wide cloud migration initiative across multiple banking applications, modernizing deployment infrastructure from legacy systems to AWS Kubernetes environments with zero service disruption<br>
+• Hardened apps with Snyk and Checkov scans, managed secrets via Vault, refactored codebase, and wrote unit tests using Jest and React Testing Library<br>
 • Configured NGINX as reverse‑proxy/load‑balancer for microservices
 
-Exad - Entrepreneurship / Software - iOS Project // March 2021 – Present<br>
+<br>Exad - Entrepreneurship / Software - iOS Project // March 2021 – Present<br>
 • Developing a project in the field of Extreme and Adventure Sports to create an experience marketplace and connect sports providers with the public (skills: GitHub, Firebase database, Push Notification, Deep Links, Chat Functionalities, Maps, customized Camera, Business Logo, Figma & Photoshop Designs, personal customized sf symbol, cached images, Logins, Automated Emails, Stripe payment platform integration for connected accounts with Node.js and terminal coding skills)
 
 <br>Ripped Utopia - Software - iOS Project // Dec 2023 – Present<br>
 • Designed and developed a pioneering fitness application featuring a dynamic, personalized powerlifting workout program based on progressive overload principles, incorporating a comprehensive library of over 1,300 exercises with illustrative GIFs. Engineered robust tracking functionalities to empower users with detailed progress monitoring and insights, fostering enhanced fitness outcomes (skills: parsing APIs, displaying gifs, interaction in data between implementing a local SwiftData offline database and a Firebase online database)
 
-Le Wagon Projects // Jan 2024 – April 2024<br>
+<br>Le Wagon Projects // Jan 2024 – April 2024<br>
 • Collaborated to create 'EasyFind', a mobile web app that revolutionizes how people moving to new cities find and select local activities. Integrated data from Yelp, TMDB, and Predict HQ APIs, utilized Mapbox for location services, managed tasks via Trello, and achieved deployment on Heroku. The user-friendly phone app is live at easyfind.click<br>
 • Teamed up with two peers to develop 'Planet Plot', a web marketplace built with Ruby on Rails, enabling users to transact in virtual land ownership across the universe. I played a key role in creating listing functionalities, marketplace transactions, and transparent purchase histories, utilizing GitHub to ensure high-quality code and seamless team collaboration
 
-USF Sport Marketing - iOS App // May 2022 – May 2023<br>
+<br>USF Sport Marketing - iOS App // May 2022 – May 2023<br>
 • Created an application from scratch to improve the funnels of the university association by keeping users informed about articles, events, giveaways, and the executive roster. The app is fully customizable from the UI so future executives can easily change data. Developed Software Engineering skills and created the whole iOS application from the concept to publishing it on the Apple Store (used Firebase as a Backend) and made the data dynamic with an MVVM model
 
-Personal Website<br>
+<br>Personal Website<br>
 • Developed a personal website using Wix to comprehensively present my prior professional experiences and educational background, designed with a focus on user-friendly navigation and engaging UX, facilitating dynamic and accessible insights into my career journey<br>
 • Currently elevating my web development skills by engineering a more sophisticated and interactive version of my personal website using Ruby on Rails, aiming to introduce advanced functionalities and an enhanced UX for an even more captivating user interaction (progress is displayed on my GitHub)
 
