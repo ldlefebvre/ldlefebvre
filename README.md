@@ -53,6 +53,10 @@ My journey is a testament to my adaptability, ambition, and unwavering commitmen
 <h3>👨‍💻 Laurent's Coding Journey</h3>
 
 <br>Openlane - iOS Developer // October 2025 - Present<br>
+• Lead end-to-end development of key iOS features using SwiftUI, shaping architecture decisions and driving alignment with design, backend, Android, and web teams for consistent cross-platform experience
+• Own major parts of the TradeRev decommissioning effort by redesigning core workflows, integrating new APIs, and modernizing legacy UIKit and storyboard code into scalable SwiftUI components
+• Improve product stability and delivery quality by proactively identifying defects, creating actionable Linear tickets, and shipping well-tested features through rigorous GitHub peer reviews, QA cycles, and CI/CD pipelines with mandated test coverage
+• Strengthen the app’s reliability and performance through XCTest suites (including snapshots), strategic use of feature flags, performance analytics via Segment, and contributions to large architectural refactors across major app surfaces
 
 <br>National Bank of Canada - Full Stack Engineer // May 2025 - September 2025<br>
 • Containerized and deployed a React front‑end microservice on AWS EKS using Docker, and maintained Jenkins‑driven CI/CD pipelines<br>
