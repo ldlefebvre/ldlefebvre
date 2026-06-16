@@ -67,6 +67,10 @@ Beyond code: WSET-trained in wine (the obsession that became Sensium), a former 
 • Hardened apps with Snyk and Checkov scans, managed secrets via Vault, refactored the codebase, and wrote unit tests using Jest and React Testing Library<br>
 • Configured NGINX as a reverse‑proxy / load‑balancer for microservices
 
+<br>Nouri - Mobile Engineer // December 2024 – October 2025<br>
+• Built a cross-platform nutrition app for iOS and Android in Flutter/Dart that turns Whoop and Oura wearable data into daily, dietitian-backed food recommendations
+• Shipped to the App Store and Google Play from a single Flutter codebase, integrating wearable and nutrition REST APIs with a TypeScript backend
+
 <br>Exad - Founder / iOS Project // March 2021 – October 2025<br>
 • Built an experience marketplace for extreme and adventure sports that connects providers with the public — a native iOS app with a Firebase backend, Stripe Connect payments (Node.js), real-time chat, deep links, maps, a custom camera, push notifications, cached images, automated emails, and custom SF Symbols / Figma & Photoshop branding
 
