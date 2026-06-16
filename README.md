@@ -67,10 +67,10 @@ Beyond code: WSET-trained in wine (the obsession that became Sensium), a former 
 • Hardened apps with Snyk and Checkov scans, managed secrets via Vault, refactored the codebase, and wrote unit tests using Jest and React Testing Library<br>
 • Configured NGINX as a reverse‑proxy / load‑balancer for microservices
 
-<br>Exad - Founder / iOS Project // March 2021 – Present<br>
-• Building an experience marketplace for extreme and adventure sports that connects providers with the public — a native iOS app with a Firebase backend, Stripe Connect payments (Node.js), real-time chat, deep links, maps, a custom camera, push notifications, cached images, automated emails, and custom SF Symbols / Figma & Photoshop branding
+<br>Exad - Founder / iOS Project // March 2021 – October 2025<br>
+• Built an experience marketplace for extreme and adventure sports that connects providers with the public — a native iOS app with a Firebase backend, Stripe Connect payments (Node.js), real-time chat, deep links, maps, a custom camera, push notifications, cached images, automated emails, and custom SF Symbols / Figma & Photoshop branding
 
-<br>Ripped Utopia - iOS Project // Dec 2023 – Present<br>
+<br>Ripped Utopia - iOS Project // Dec 2023 – April 2026<br>
 • Designed and built a personalized powerlifting app based on progressive-overload principles, with a library of 1,300+ exercises (illustrative GIFs) and detailed progress tracking — syncing a local SwiftData store with a Firebase backend (skills: API parsing, GIF rendering, offline/online data sync)
 
 <br>Le Wagon Projects // Jan 2024 – April 2024<br>
