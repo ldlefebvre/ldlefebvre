@@ -1,6 +1,6 @@
 # 🏋🏻 Laurent Lefebvre
 
-**`Software & Mobile (iOS) Engineer — shipping polished, cross-platform products end to end`**
+**`Software & Mobile Engineer — shipping polished, cross-platform products end to end`**
 
 I'm a software engineer specializing in **mobile (iOS)** with full-stack range. I build polished, cross-platform products end to end — from a shared Kotlin Multiplatform core to apps shipped on the App Store and Google Play. Right now I'm all-in on **Sensium**, a 10-platform wine-study app I built and run as founder and lead engineer on a single shared core. Previously I shipped native iOS features in production at **OpenLane** and built containerized microservices at **National Bank of Canada**.
 
